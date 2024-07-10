@@ -7,7 +7,7 @@ body {
     border-radius: 10px;
 }
 
-.card {
+.cards {
     padding: 20px;
     display: flex;
     justify-content: space-around;
@@ -19,9 +19,4 @@ body {
     background: #ddebf8;
     border-bottom: 8px solid #d8cefe;
 }
-
-.dot {
-    /*border: 1px dotted blue;*/
-}
-
 
